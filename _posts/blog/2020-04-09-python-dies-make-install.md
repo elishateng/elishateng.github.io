@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ubuntu 16.04 install python-2.7.17
-categories: [cate1, cate2]
-description: some word here
-keywords: keyword1, keyword2
+categories: Blog
+description: how to install python 2.x in ubuntu 16.04
+keywords: ubuntu, 16.04, python
 ---
 
 ## Ubuntu 16.04 install python-2.7.17
