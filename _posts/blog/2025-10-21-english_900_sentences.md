@@ -95,5 +95,5 @@ keywords: sentence
 17. I'm an Aquarius and it's said that people like me are born thinkers.
 18. One of my cousins is crazy about travelling and she has been to dozens of countries over the past 10 years.
 19. If this park were closer to my apartment, I guess I would go there more often.
-20. Fair-weather friends are definitely the kind of friends we don't want.  
+20. Fair-weather friends are definitely the kind of friends we don't want.<br>
 21. Smartphones have blurred the lines between work and home lives and we often communicate with our colleagues and bosses after work now. 
