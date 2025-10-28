@@ -7,10 +7,10 @@ keywords: sentence
 ---
 
 1. 单词及短语
-loving  adj. 充满爱的
-caring  adj. 关心他人的，体贴人的
-whereas  conj. 然而，但是
-vivid  adj. 鲜艳的，耀眼的
+. loving  adj. 充满爱的
+. caring  adj. 关心他人的，体贴人的
+. whereas  conj. 然而，但是
+. vivid  adj. 鲜艳的，耀眼的
 snorkel  v. 浮潜
 electric  adj. 电的，电动的
 unaffected  adj. 未被影响的
