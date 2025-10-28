@@ -1,8 +1,8 @@
 ---
 layout: post
-title: English 900 sentences
+title: English 900 sentences Day 1
 categories: Blog
-description: English 900 sentences
+description: English 900 sentences Day 1
 keywords: sentence
 ---
 
@@ -96,4 +96,13 @@ keywords: sentence
 18. One of my cousins is crazy about travelling and she has been to dozens of countries over the past 10 years.
 19. If this park were closer to my apartment, I guess I would go there more often.
 20. Fair-weather friends are definitely the kind of friends we don't want.<br>
-21. Smartphones have blurred the lines between work and home lives and we often communicate with our colleagues and bosses after work now. 
+21. Smartphones have blurred the lines between work and home lives and we often communicate with our colleagues and bosses after work now.
+22. It's okay if teenagers play video games in moderation. All work and no play makes Jack a dull boy.
+23. It's obvious that being multilingual gives people an advantage in the workplace.
+24. Word-of-mouth advertising is the most effective form of advertising.
+25. Looking at old photos brings back memories.
+26. I went to the biggest theatre in town for a fascinating play last weekend.
+27. The bus is the cheapest way to get around even though it's overcrowded most of the time.
+28. Success comes in various forms. It could be having a high social status, earning a seven-figure salary or simply feeling happy every day.
+29. It's best to get away from it all and go on an excursion on the weekend.
+30. Spending money on experience, especially with other people, is what makes us truly happy.
