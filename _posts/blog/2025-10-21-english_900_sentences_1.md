@@ -6,6 +6,8 @@ description: English 900 sentences Day 1
 keywords: sentence
 ---
 
+# Day 1 口语话题
+
 ## 单词及短语
 - loving  adj. 充满爱的
 - caring  adj. 关心他人的，体贴人的
@@ -106,3 +108,81 @@ keywords: sentence
 28. Success comes in various forms. It could be having a high social status, earning a seven-figure salary or simply feeling happy every day.
 29. It's best to get away from it all and go on an excursion on the weekend.
 30. Spending money on experience, especially with other people, is what makes us truly happy.
+
+# Day 2 数字和时间类
+
+## 单词及短语
+- hilarious  adj. 极其搞笑的
+- assignment  n. 作业，被分派的工作/任务
+- incredibly  adv. 非常，难以置信地
+- devour  v. 如饥似渴地读
+- keen  adj. 热衷的，喜欢的
+- Gemini  n. 双子座，双子座的人
+- spacious  adj. 宽敞的
+- commute  n./v. 通勤
+- dietician  n. 营养学家
+- serving  n. （一）份（食物）
+- dwindle  v. （逐渐）减少
+- geogeous  adj. 好看的，漂亮的
+- hit if off  （和某人）投缘，一见如故
+- or so  左右
+- come out   上映，出版，发行
+- a massive hit  很受欢迎的事物
+- back then  在当时
+- in a row  一连，一口气
+- snack on sth.  吃（零食）
+- get my hands on. 找到……，得到……
+- see eye to eye on ...  在……上看法一致
+- get along perfectly  关系很好，非常合得来
+- in one's 60s  60多岁时
+- be fond of  喜欢
+- the life of the party  聚会上最活跃的人
+- on cloud nine  非常开心的
+- wedding anniversary  结婚纪念日
+
+
+## 语句
+
+1. I usually get up around seven thirty.
+2. I was busy working on as assignment last night and I didn't go to bed until 2 a.m.
+3. I needed to arrive at a meeting at 3 o'clock yesterday, but it began to rain heavily at a quarter past 2 and I was 10 minites late because of it.
+4. My favourite pop star is Eason and I listen to his music every day for about an hour or so after dinner.
+5. The show was hilarious and I watched 10 episodes in a row.
+6. It's better to snack on an apple or a banana than to have a full meal if you feel hungry in the mid-afternoon.
+7. I don't know exactly when the Forbidden City was built. I only know it was built in the 15th century.
+8. The so-called Four Heavenly Kings were incredibly popular in the 1990s.
+9. This movie came out in 1997 and it was a massive hit back then.
+10. When I was 13 years old, I began to devour everything I could get my hands on - books, magazines and newspapers.
+11. My best friend is my 15-year-old cousin. Although I'm 10 years older than him, we see eye to eye on most things and get along perfectly.
+12. Those in their 60s or 70s are quite fond of dancing in parks. Youngers people are not so keen.
+13. I remember very clearly that I received this letter on August 13th. That was propably the happiest day of my life.
+14. My sister was born in June and she is a Gemini. That's why she is so outgoing. She is always the life of the party.
+15. It's extremely hot in my hometown during the summer, and sometimes the temperature can even be 40 degrees Celsius.
+16. My apartment is pretty spacious. It's about 150 square metres in size.
+17. There were roughly 50,000 people at that rock concert. It was the most people I've ever seen in one place.
+18. The reason I'm not so fond of my current job is because I have a long commute every day. It takes me 2 hours to get to work by subway.
+19. I was required to write four 3,000-word essays and I only had one week to complete them.
+20. That English lesson was a nightmare because our teacher asked us to memorise 150 words in one hour. Crazy!
+21. They've been married for 62 years and their love doesn't seem to have dwindled a bit.
+22. It's suggested by dieticians that we should consume at least five servings of fruits and vegetables daily.
+23. I take a taxi once or twice a week -- only very ofen, as it's much more expensive than taking the bus or the subway.
+24. I do housework 3 or 4 times a week.
+25. People nowadays check their social media every five minutes.
+26. According to a recent poll, Chinese people read an average of 7 books a year.
+27. My neighbour moved in next door five years ago. When we first met, we really hit it off and we've been close friends ever since.
+28. I got my first ever computer on my 18th birthday. I was on cloud nine when I got it.
+29. I was late for class yesterday morning. That was the second time I had been late this week.
+30. My dad gave my mon a gorgeous necklace on their 30th wedding anniversary.
+
+# Day 3 自我介绍类
+
+## 单词及短语
+- deliver  v. 履行诺言
+- picturesque  adj. 优美的
+- daffodil  n. 水仙花
+- devour  v. 如饥似渴地读
+
+## 语句
+
+1. I usually get up around seven thirty.
+2. I was busy working on as assignment last ni
