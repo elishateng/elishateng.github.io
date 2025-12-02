@@ -8,7 +8,9 @@ menu: 关于
 permalink: /about/
 ---
 
-I am Elisha.
+Hello! I am Elisha. Nice to meet you~
+
+Hei! Minun nimeni on Elisa. Hauska tutustua~
 
 Staff Engineer with over 11 years of experience building UI frameworks and turning design documents into runnable code.
 
@@ -38,4 +40,5 @@ I also have a dual degree in Software Engineer and Finance.
 {% endfor %}
 </div>
 {% endfor %}
+
 
