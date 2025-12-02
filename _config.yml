@@ -5,7 +5,7 @@ baseurl:
 url: https://elishateng.github.io
 date_format: "ordinal"
 title: Elisha
-subtitle: "Hyvää päivää. Minun nimeni on Elisa.<br> Hauska tutustua."
+subtitle: "Hyvää päivää.<br>Minun nimeni on Elisa.<br>Hauska tutustua."
 description: "Elisha's Blog"
 keywords: Elisha, Teng, elishateng
 timezone: Asia/Shanghai
@@ -123,6 +123,7 @@ simple_jekyll_search:
 # ---------------- #
 google:
     analytics_id: UA-80669434-1
+
 
 
 
