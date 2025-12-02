@@ -1,20 +1,28 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
+description: About 
 keywords: Elisha Teng, elishateng
 comments: false
 menu: 关于
 permalink: /about/
 ---
 
-I am Elisha Teng.
+I am Elisha.
 
-仰慕「优雅编码的艺术」。
+Staff Engineer with over 11 years of experience building UI frameworks and turning design documents into runnable code.
 
-坚信熟能生巧，努力改变人生。
+I work mainly with C/C++, C#, TypeScript, and Python. 
 
-## 联系
+I know Linux well and have solid knowledge of data structures, algorithms, and common design patterns.
+
+My experience covers both low-level work (C++ Dali library) and higher-level UI frameworks (Tizen.NUI, Xamarin, Web).
+
+I am comfortable with Agile, Git, and modern AI coding tools (Cursor/Cline).
+
+I also have a dual degree in Software Engineer and Finance.
+
+## Contact
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
@@ -30,3 +38,4 @@ I am Elisha Teng.
 {% endfor %}
 </div>
 {% endfor %}
+
