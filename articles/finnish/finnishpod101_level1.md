@@ -44,3 +44,28 @@ permalink: /articles/finnish/finnishpod101_level1
 - Ei se mitään. (Don't mention it.)
 - Nähdään pian! (See you soon!)
 
+### Lesson 5 What is That Finnish Thing?
+- Helen: Mikä tämä on? (What's this?)
+- Liisa: Se on lautanen. (It's a plate)
+- Helen: Mikä tuo on? (What's that?)
+- Liisa: Se on lasi. (It's a glass.)
+- Helen: Kuka tuo on? (Who's that?)
+- Liisa: Se on presidentti Niinistö. (It is President Niinistö)
+
+- Kuka sinä olet? (Minä olen Liisa.)
+- "Who are you?" ("I'm Liisa.")
+- Kuka minä olen? (Sinä olet Helen.)
+- "Who am I?" ("You are Helen.")
+- Kuka hän on? (Hän on Emmi.)
+- "Who is she?" ("She is Emmi.")
+- Mikä se on? (Se on salaisuus.)
+- "What is it?" ("It's a secret.")
+
+### Lesson 6 Greetings
+- Hei. (Hi.)[informal]
+- Hyvää päivää. (Good day.)[formal]
+- Hyvää iltaa. (Good evening.) [formal]
+- Näkemiin. (Goodbye.) [formal]
+- Hei hei. (Bye bye) [informal]
+- Nähdään pian. (See you soon.) [formal/informal]
+  
