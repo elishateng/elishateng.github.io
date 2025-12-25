@@ -421,7 +421,7 @@ Lause
 - Kanadalainen ratsastaa hyvin. (The Canadian rides well.)
 - Tämä laulu on pitkä mutta tosi hyvä. (This song is long but really good.)
 
-### Unit 8
+### Unit 8 Make requests
 Sana
 - tee (tea)
 - sokeri (sugar)
@@ -509,6 +509,8 @@ Lause
 ### Unit 9 Form the plural
 Sana
 - ruskea (brown)
+- haista (to stink)
+- siili (a hedgehog)
 
 Lause
 - Lehmä sanoo muu. (The cow says moo.)
@@ -583,5 +585,82 @@ Lause
 - Kuka pesee koiraa ja ketkä siivoavat lattiaa? (Who is washing the dog and who are the people cleaning the floor?)
 - Koirat puraisevat sipulia ja itkevät. (The dogs bite the onion and cry)
 - Pieni karhu peraisee omenaa. (The small bear bites an apple.)
+
+- Ponit haisevat. (The ponies stink.)
+- Se on eri undulaatti. (It is another parakeet.)
+- Onko kellari siisti vai sotkuinen? (Is the basement tidy or messy?)
+- Tämä kieli on tärkeä mutta vaikka. (This language is important but difficult.)
+- nousta ylös (to get up)
+- Me nousemme nopeasti ylös, koska karhut ovat lähellä. (We get up quickly, because the bears are near.)
+- Hänellä on oranssi kissa, joka on tosi painava. (He has an orange cat, which is really heavy.)
+
+
+### Unit 10 Form the plural
+Sana
+- Espanja (Spain)
+- Saksa (Germany)
+- Ranska (France)
+- Tallinna (Tallinn)
+- nykyään (nowadays)
+- Italia (Italy)
+- Pariisi (Paris)
+- Sveitsi (Switzerland)
+- Lontoo (London)
+- Praha (Prague)
+- Puola (Poland)
+
+
+Lause
+- Missä Espanja on? (Where is Spain?)
+- Otso on Ruotsissa. (Otso is in Sweden.)
+- Oslo on pohjoinen kaupunki. (Oslo is a northern city.)
+- Oslo on Norjassa. (Oslo is in Norway.)
+- Asuuko Elsa Norjassa? (Does Elsa live in Norway?)
+- Asuuko viikinki Ruotsissa? (Does the Viking live in Sweden?)
+- Saamelainen shamaani asuu Norjassa. (The Sámi shaman lives in Norway.)
+- Venäläinen laulaja asuu Tanskassa. (The Russian singer lives in Denmark.)
+- Oslo on kaupunki Norjassa. (Oslo is a city in Norway.)
+- He asuvat Tanskassa. (They live in Denmark.)
+- Outo suomalainen mies haluaa asua Ruotsissa. (The strange Finnish man wants to live in Sweden.)
+- Minä asun Virossa. (I live in Estonia.)
+- Asutteko te Virossa? (Do you live in Estonia?)
+- -Missä sinä asut? -Virossa. (-Where do you live? -In Estonia.)
+- Onko Tallinna lähellä vai kaukana? (Is Tallinn near or for away?)
+- Olemme Suomessa. (We are in Finland.)
+- Meillä on ystävä joka asuu Suomessa. (We have a friend who lives in Findland.)
+- Me asumme Saksassa. (We live in Germany.)
+- Onko Unkari kaukana? (Is Hungary far away?) Hungary-匈牙利
+- Tämä paikka on kaunis. (This place is beautiful.)
+- Tuo kaupunki on Saksassa. (That city is in Germany.)
+- Tuo puisto on Unkarissa. (That park is in Hungary.)
+- Maalaan taulua Ranskassa. (I am painting a picture in France.)
+- Meillä on hauskaa Virossa. (We are having fun in Estonia.)
+- Tuo vanha kirkko on Ranskassa. (That old church is in France.)
+- Onko sinulla hauskaa Espanjassa? (Are you having fun in Spain?)
+- Tori on Berliinissä. (The square is in Berlin.)
+- Asutko vielä Berliinissä? (Do you still live in Berlin?)
+- Onko Italia kaukana? (Is Italy far away?)
+- Tuo kaupunki on Sveitsissä. (That city is in Switzerland.)
+- Minä halun käydä Unkarissa. (I want to visit Hungary?) 使用内格后缀表示地点。
+- Tuo oopperatalo on Italiassa. (That opera house is in Italy.)
+- Lahjakas muusikko asuu Pariisissa. (The talented musician lives in Paris.)
+- Amerikkalainen Pariisissa. (An American in Paris.)
+- Missä Sveitsi on? (Where is Switzerland?)
+- Haluan viettää enemmän aikaa Oslossa. (I want to spend more time in Oslo.)
+- He haluavat viettää enemmän aikaa Suomessa. (They want to spend more time in Finland.)
+- Haluan tanssia Berliinissä. (I want to dance in Berlin.)
+- Miksi sinä haluat käydä Ruotsissa? (Why do you want to visit Sweden?)
+- Asun Prahassa. (I live in Prague.)
+- Haluan käydä Lontoossa. (I want to visit London.)
+- Haluamme käydä Roomassa. (We want to visit Rome.)
+- Asumme nykyään Sveitsissä. (We live in Switzerland nowadays.)
+- Haluan käydä Puolassa tai Unkarissa. (I want to visit Poland or Hungary.)
+- Asutko tässä maassa? (Do you live in this country?)
+- Haluan asua tässä maassa. (I want to live in this country.)
+- Puola on kaunis paikka. (Poland is a beautiful place.)
+- Rooma on vanha paikka. (Rome is an old place.)
+- Onko sinulla aikaa käydä Roomassa? (Do you have time to visit Rome?)
+- Haluatko viettää aikaa Prahassa? (Do you want to spend time in Prague?)
+
 
 
