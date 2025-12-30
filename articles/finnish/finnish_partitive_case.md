@@ -26,6 +26,25 @@ permalink: /articles/finnish/finnish_partitive_case
 | 伴随格 | komitatiivi | 与...一起 | | |
 
 
+
+## k-p-t-vaihtelu变异:
+| vahva强 |  | heikko弱 | | | + pääte结尾 | | |
+| ---- | ---- | ---- | --- | --- | --- | --- | --- |
+| kk | -> |	k | | Afri`kk`a | -> | Afri`k`asta | From Africa/来自非洲 |
+| pp | -> |	p | | Euroo`pp`a | -> | Euroo`p`assa | in Europe/在欧洲 |
+| tt | -> | t | | konser`tt`i |	-> | konser`t`in | concert/音乐会 |
+| | | | | | | | |
+| k | -> | - | | Tur`k`u | -> | Turussa | | 
+| p | -> | v | | lei`p`ä | -> | lei`v`ällä | |
+|t | -> | d | | ka`t`u | -> | ka`d`ulla | |
+| | | | | | | |
+| nk | -> |	ng | | Helsi`nk`i | -> | Helsi`ng`issä | |
+| nt | -> | nn | | Holla`nt`i | -> | Holla`nn`in |
+| mp | -> | mm | | ru`mp`u | -> | ru`mm`un | |
+| lt | -> | ll | | i`lt`a | -> | i`ll`alla | |
+| rt | -> |	rr | | pa`rt`a | -> | pa`rr`an | |
+
+
 ## Finnish Partitive Case
 | Nominative | Stem | Partitive | Translation |
 | --- | --- | --- | --- | 
@@ -37,3 +56,13 @@ permalink: /articles/finnish/finnish_partitive_case
 | hän | hän- | häntä | he/she |
 | mikä | mi- | mitä | what |
 | terve | terve- | tervettä | healthy |
+| ruoka | ruoa- | ruokaa | |
+| hyvä | hyvä- | hyvää | |
+| kerta次 |	kerra- | kertaa | |
+| aste度 | astee- |	astetta | |
+| moni多 | mone- | monta | |
+| yksi | yhde- | yhtä | |
+| kaksi | kahde- | kahta | |
+| talo | talo- | taloa | |
+| Suomi | Suome- | Suomea | |
+
