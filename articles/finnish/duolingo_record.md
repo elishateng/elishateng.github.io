@@ -661,6 +661,17 @@ Lause
 - Rooma on vanha paikka. (Rome is an old place.)
 - Onko sinulla aikaa käydä Roomassa? (Do you have time to visit Rome?)
 - Haluatko viettää aikaa Prahassa? (Do you want to spend time in Prague?)
+- Isä asuu tässä maassa. (Father lives in this country.)
+- Sitruuna on tuossa. (The lemon is right there.)
+- Sinä puhut sujuvaa suomea! (You speak fluent Finnish!)
+- Minä laulan usein hiljaa, koska olen niin ujo. (I often sing quietly because I am so shy.)
+- Miikka ja Joni osaavat tanssia tangoa. (Mikka and Joni know how to tango.)
+- Onko Tallinna lähellä vai kaukana? (Is Tallinn near or far away?)
+- Huluatko viettää enemmän aikaa täällä? (Do you want to spend more time over here?)
+- Haluan syödä juustoa Sveitsissä. (I want to eat cheese in Switzerland.)
+- Onko sinulla aikaa käydä Roomassa? (Do you have time to visit Rome?)
+- Älykäs professori puhuu sujuvaa viroa. (The intelligent professor speaks fluent Estonian.)
+- Nuori venäläinen mies on lahjakas tanssija. (The young, Russian man is a talented dancer.)
 
 
 
