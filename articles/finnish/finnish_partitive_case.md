@@ -66,3 +66,52 @@ permalink: /articles/finnish/finnish_partitive_case
 | talo | talo- | taloa | |
 | Suomi | Suome- | Suomea | |
 
+## Partitive Case
+| Nominative原型 | Stem词干（单）| Partitive部分格 |
+| ---- | ---- | ---- |
+| ruoka | ruoa- | ruokaa |
+| hyvä | hyvä- | hyvää |
+| kerta 次 |	kerra- | kertaa |
+| *aste 度 | astee- |	astetta |
+| *moni 多 | mone- | monta |
+| talo | talo- | taloa |
+| Suomi | Suome- | Suomea |
+| | | |
+| *yksi | yhde- | yhtä |
+| *kaksi | kahde- | kahta |
+| kolme | kolme- | kolmea |
+| neljä | neljä- | neljää |
+| viisi | viide- | viittä |
+| kuusi | kuude- | kuutta |
+| seitsemän | seitsemä- | seitsemää |
+| kahdeksan | kahdeksa- | kahdeksaa |
+| yhdeksän | yhdeksä- | yhdeksää |
+| kymmenen | kymmene- | kymmentä |
+| | | |
+| minä | minu- | minua |
+| sinä | sinu- | sinua |
+| *hän | häne- | häntä |
+| *se | se- | sitä |
+| *me (we)| meidä- | meitä |
+| *te (you) | teidä- | teitä |
+| *he (they) | heidä- | heitä |
+| *ne (they) | niide- | niitä |
+| | | |
+| koti | kodi- | kotia |
+| paikka | paika- | paikkaa |
+| vapaa | vapaa- | vapaata |
+| terve | tervee- | tervetta |
+| *tämä | tämä- | tätä |
+| nimi | nime- | nimeä |
+| viikko | viiko- | viikkoa |
+| | | |
+| loppu | lopu- | lopuua |
+| lamppu | lampu- | lamppua |
+| äiti | äidi- | äitiä |
+| *sini`nen` (blue)| sinise- | sinistä |
+| *nai`nen` (woman) | naise- | naista |
+| mies (man)| miehe- | miestä |
+| | | |
+| *lapsi (child) | lapse- | lasta |
+| vesi (water)| vede- | vettä |
+|  |  | |
