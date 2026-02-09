@@ -2,7 +2,7 @@
 layout: page
 title: About
 description: About 
-keywords: Elisha Teng, elishateng
+keywords: Eelis Teng, eelis, teng
 comments: false
 menu: 关于
 permalink: /about/
@@ -40,6 +40,7 @@ I also have a dual degree in Software Engineer and Finance.
 {% endfor %}
 </div>
 {% endfor %}
+
 
 
 
