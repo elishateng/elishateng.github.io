@@ -23,3 +23,21 @@ I'd say at school probably, because I'd like to appear to be decent in front of 
 
 ## 5. Do you keep your study area tidy?
 Oh, yes! Although my room can sometime get quite disorganized, my study area is always tidy. I can go slightly OCD when it comes to the arrangement of all my school supplies and my textbooks and stuff. I need each of them to be at a particular position for the eternity of time so I can always find them. I also need there to be enough clean surface for me to work freely, so I'm constantly organizing my study surface and putting things in order.
+
+
+# Meeting new people
+
+## 1. Do you often meet new people?
+Actually almost every day. There are so many people that we meet in life. Some of them I stick around with, other I just lose in the journey of life. Some of them are kind, some are not, but no matter what there are so many memories that I can make with them and enjoy them for my entire life.
+
+## 2. Do you like meeting new people?
+Yes, of course. It is of so much excitement when you meet new friends, because they always have new stories to tell. You get to know about different cultures, different opinions and even different languages. There is a sort of novelty comes to me every time I meet someone new, which is one of my favourites.
+
+## 3. What kind of people do you like to meet?
+I would like to meet different people for different needs: personal, professional or emotional etc. In my life I have met people who have truly helped me develop as an individual and I would love to continue to meet people who can assist me in this even further.
+
+## 4. What kinds of people do you want to be friends with?
+I like to make friends with people who shared the same interest with me so we could have a plenty of topics to talk about and would never be bored when we hang out together. It's easy for us to kill time when we stay together. For instance, I am quite into comics. If my friends like comics, we could sit together and read comic books without feeling embarrassed.
+
+## 5. How long does it take to get to know a person?
+I am not sure, maybe a few days, maybe few years. Since people change over time, it is hard to give out a specific time period. You can get to know each person who plays a specific role in your daily life in a short time. I mean, for example, my teacher James. I could get to know him as a responsible teacher at school from the first school day, but I may never know him off the school when he is himself.
