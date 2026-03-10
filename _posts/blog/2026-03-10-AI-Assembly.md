@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AI Assembly
-categories: [AI, LLM]
+categories: Blog
 description: Assembly AI knowledge
 keywords: AI, LLM
 ---
