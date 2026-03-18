@@ -60,6 +60,21 @@ keywords: AI, LLM
   - 支持多模态用户界面
   - 实现自然语言交互
 
+### Agent Skill
+  - 渐进式报露（Progressive Disclosure)：
+    - 元数据层Metadata  名称 + 描述  始终加载
+    - 指令层Instruction  SKILL.md中除名称和描述之外的内容  按需加载
+    - 资源层Resource  Reference + Script  按需中的按需加载
+  - MCP vs Agent Skill
+    - MCP
+      - 功能：给大模型提供数据
+      - 举例：查询昨天的销售记录，读取订单的物流状态
+      - 本质：程序
+    - Agent Skill
+      - 功能：教大模型如何处理数据
+      - 举例：会议总结必须要有议题，汇报文档必须包含数据
+      - 本质：文档
+
 ## 4. AI应用开发框架
 
 ### 开发生态
