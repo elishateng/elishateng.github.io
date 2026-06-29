@@ -902,4 +902,36 @@ Lause
 - Koalat elävät Australiassa. (Koalas live in Australia.)
 - Voi ei! Koalat ovat pulassa. (Oh no! The koalas are in trouble.)
 
-- 
+
+- Oravat juoksevat metsässä. (Squirrels are running in the forest.)
+- Siilit kävelevät (The hedgehogs are walking.)
+- Puu on kasvi. (A tree is a plant.)
+- Ne istuvat maassa. (They are sitting on the ground.)
+- Hyi! Nuo kasvit haisevat! (Ew! Those plants stink!)
+- Vanhat pöllöt istuvat puussa. (The Old owls are sitting in the tree.)
+
+- Se haistelee sipulia (It is sniffing the onion.)
+- ilves juoksee. (The lynx 猞猁 is running.)
+- Ahmat murisevat. (The wolves are growling.)
+- Puro on metsässä. (The stream is in the forest.)
+- ilves on piilossa. (The lynx is hiding.)
+- Ahmat kävelevät (The wolves are walking.)
+- Isot puut kasvavat vielä. (The big trees are still growing.)
+- Kasvi kasvaa purossa. (The plant is growing in the stream.)
+
+- Poro juoksee (The reindeer is running.)
+- Siili on harmaa. (The hedgehog is gray.)
+- Koko puro on jäässä. (The whole stream is frozen.)
+- He haistelevat oranssia kukkaa. (They are sniffing the orange flower.)
+- Jää on kylmää. (Ice is cold.)
+- Kylmät purot ovat jäässä. (The cold streams are frozen.)
+- Maa on jäässä. (The land is frozen.)
+
+- Olen kalassa. (I am fishing.)
+- Oletko sinä taas kalassa? (Are you fishing again?)
+- Missä järvi on? (Where is the lake?)
+- Ne kävelevät pois. (They are walking away.)
+- Seison keskellä puroa. (I am standing in the middle of the stream.)
+- Se on yleensä jo jäässä. (It is usually already frozen.)
+- Tuo kukka on myrkyllinen. (That flower is poisonous.)
+
