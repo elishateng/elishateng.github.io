@@ -862,3 +862,44 @@ Lause
 
 - Siilit puraisevat tuhmaa koiraa. (The hedgehogs bite the naughty dog.)
 
+
+### Unit 13 Talk about nature
+Sana
+- krokotiili (crocodile)
+- kameli (camel)
+- Australia (Australia)
+- elää (to be alive)
+- puu (tree)
+- metsä (forest)
+- hymyillä (to smile)
+- kävellä (to walk)
+- yleensä (usually)
+- järvi (lake)
+- kuulla (to hear)
+- haistella (to sniff 嗅)
+- ahma (wolverine 金刚狼)
+- piilo (hiding place)
+- poro (reindeer 驯鹿)
+- kukka (flower)
+- marja (berry)
+- jää (ice)
+- kivi (rock)
+- keskellä (in the middle of)
+- rikki (broken)
+- siisti (tidy)
+
+Lause
+- Egypti on kuuma maa. (Egypt is a hot country.)
+- Koalat ovat tuolla. (The koalas are over there.)
+- koala, koalat (a koala, koalas)
+- Kameli yrittää puraista turistia. (The camel is trying to bite the tourist.)
+- Egypti, Egyptissä (Egypt, in Egypt)
+- kenguru, kengurut (a kangaroo, kangaroos)
+- Ruskeat kengurut ovat vielä täällä. (The brown kangaroos are still over here.)
+- Missä kamelit elävät? (Where do camels live?)
+- kameli, kamelit (a camel, camels)
+- Missä kengurut elävät? (Where do kangaroos live?)
+- Koalat elävät Australiassa. (Koalas live in Australia.)
+- Voi ei! Koalat ovat pulassa. (Oh no! The koalas are in trouble.)
+
+- 
