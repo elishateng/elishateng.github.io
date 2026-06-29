@@ -8,11 +8,7 @@ permalink: /articles/finnish/duolingo_record
 ---
 
 ## Section 1
-### Unit 1 Introduce yourself
-- Terve! Kuka sinä olet? (Hello! Who are you?)
-- Minä olen Elsa. (I am Elsa.)
-- Anteeksi, kuka sinä olet? (Excuse me, who are you?)
-- Minä olen Otso. (I am Otso.)
+
 
 ### Unit 2 Use common phrases
 - Terveduloa! (Welcome!)
