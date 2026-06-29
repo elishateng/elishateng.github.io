@@ -771,5 +771,25 @@ Lause
 - Tämä venäläinen koira on tosi pörröinen! (This Russian dog is really fluffy!)
 
 
+- Millainen eläin se on? (What kind of animal is it?)
+- Mikä eläin se on? (What animal is it?)
+- Ainakin kuusi tuhmaa kissaa on pulassa. (At least six naughty cats are in trouble.)
+- Kenellä on lisää ruokaa? Sillä on nälkä. (Who has more food? It is hungry.)
+- Viisi villiä pöllöä sanoo huhuu. (Five wild owls are saying hoot.)
+- Poni potkaisee velhoa. (The pony kicks a wizard.)
+- kahdeksan onnellista lemmikkiä (eight happy pets)
+- Kaksi surullista suomalaista etsii mustaa kissaa. (Two sad Finns are looking for a black cat.)
+- Sillä on neljä täydellistä pentua. (It has four perfect puppies.)
+- Ystävällinen pari omistaa kuusi lemmikkiä. (The friendly couple owns six pets.)
+- Sillä on yhdeksän täydellistä pentua. (It has nine perfect cubs.)
+- Me omistamme seitsemän lehmää. (We own seven cows.)
+- Neljä ystävällistä tyttöä omistaa neljä pyöreää pupua. (Four friendly girls own four round bunnies.)
+- Punainen lintu on vihainen. (The red bird is angry.)
+- Kaksi vihaista koiraa murisee. (Two angry dogs are growling.)
+- Pöllölä yrittää piirtää hevosta. (Pöllölä is trying to draw a horse.)
+- He siivoavat isoa verantaa. (They are cleaning a big veranda.)
+- Oho, me olemme taas täällä. (Oh, we are back here again.)
+- nämä kanat; nuo kanat (these chickens; those chickens)
+- Onko Polle kiltti hevonen? (Is Polle a well behaved horse?)
 
 
